@@ -1,0 +1,17 @@
+{
+  "name": "password_hashing_scrypt",
+  "version": "0.0.0",
+  "description": "Simple password hashing using Node's crypto.scrypt",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Tomas Cristian",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "tddf"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tddf": "0.0.0"
+  }
+}
